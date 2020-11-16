@@ -6,3 +6,6 @@ An implementation of the Uniform Cost Search and the A* search algorithms on a m
 
 2. tic-tac-toe  
 A tic-tac-toe game which can be played against an AI agent. This has been implemented using the Minimax algorithm.
+
+3. Gaussian Naive Bayes  
+An implementation of a classification model using the Gaussian Naive Bayes Algorithm from scratch. Dataset used is 'iris' in the scikit-learn library.
