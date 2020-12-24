@@ -13,4 +13,8 @@ An implementation of a classification model using the Gaussian Naive Bayes Algor
 ### 4. Gaussian Naive Bayes using Scikit-Learn package  
 An implementation of a classification model using the Gaussian Naive Bayes Algorithm from the Scikit-Learn package. Dataset used is 'iris' in the scikit-learn library.
 
-### 5. Gaussian Naive Bayes on Zoo Dataset
+### 5. Gaussian Naive Bayes on Zoo Dataset  
+Naive Bayes Classification on UCI Zoo Dataset(https://archive.ics.uci.edu/ml/datasets/Zoo)
+
+### 6. Markov Chain to simulate website visits  
+Markov chain implementation analyse and simulate yearly user visits on a website and reach a stationary distribution.
